@@ -31,7 +31,7 @@ This app is a comprehensive tool designed for converting numbers between differe
 
 #### Available Online
 
-The app is now available for use in the browser on itch.io! You can try it out here: [Base Converter and Calculator on itch.io](https://chris91s.itch.io/base-converter-calculator).
+The app is now available for use in the browser on itch.io! You can try it out here: [Base Converter and Calculator](https://chris91s.itch.io/base-converter-calculator).
 
 ---
 
